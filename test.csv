@@ -1,0 +1,4 @@
+Device mode,Time,AC voltage,AC frequency,PV input voltage,PV input power,Output apparent power,Output active power,Battery voltage,Battery capacity,PV input current,Battery discharge current,Output voltage,Output frequency
+Battery Mode,2022-12-16 12:52:22,0.0,0.0,23.0,0,0.0,0.0,13.0,75,0.0,229.0,50.0
+Battery Mode,2022-12-16 12:53:21,0.0,0.0,23.0,22,0.0,0.0,13.0,75,0.0,228.0,50.0
+Battery Mode,2022-12-16 12:54:21,0.0,0.0,35.7,25,0.0,0.0,12.92,71,0.0,228.0,50.0
